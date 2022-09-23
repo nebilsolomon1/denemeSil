@@ -23,5 +23,14 @@ class Person {
     func getLastname() -> String {
         return self.lastname
     }
-    
+    lazy var zxc
+        zxczcz
+        zxczcx
+            zxczxc
+    zxczxc
+        zxczxc
+    zxczxc
+        zxc
+    zxczcxzx
+        zxcczx= <#expression#>
 }
